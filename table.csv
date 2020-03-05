@@ -1,0 +1,14 @@
+﻿ID,Sex,"Age, years",Setting,Chronic lung disease,Cough,Sputum,Pleuritic pain,Sputum culture,PCR viruses,PCR bacteria,CURB-65,Mortality*
+1,male,86,inpatient,no,yes,yes,no,negative,HCoV OC43,negative,1,survived
+2,male,72,inpatient,no,yes,yes,no,negative,HCoV OC43,negative,2,survived
+3,female,57,outpatient,no,yes,yes,no,negative,HCoV OC43,negative,0,survived
+4,female,57,outpatient,no,yes,yes,no,negative,HCoV OC43,negative,0,survived
+5,male,64,inpatient,interstitial pneumonia,no,no,no,S. pneumoniae,HCoV OC43,S. pneumoniae,4,died
+6,male,61,inpatient,COPD,yes,yes,no,negative,HCoV OC43,H. influenzae,0,survived
+7,male,85,inpatient,no,yes,no,no,K. pneumoniae,HCoV OC43,negative,3,survived
+8,female,69,outpatient,no,yes,yes,no,negative,HCoV OC43,negative,1,survived
+9,male,69,inpatient,COPD,yes,no,no,H. influenzae,HCoV OC43,H. influenzae,1,survived
+10,male,81,outpatient,no,yes,yes,no,negative,HCoV OC43,negative,2,survived
+11,male,56,outpatient,no,no,no,yes,negative,HCoV OC43,M. catararhis,1,survived
+12,female,64,inpatient,no,yes,yes,no,negative,HCoV OC43,negative,1,survived
+13,male,84,inpatient,no,no,no,no,K. pneumoniae,HCoV OC43,negative,3,survived
